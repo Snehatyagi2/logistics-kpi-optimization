@@ -5,6 +5,9 @@ This project focuses on analyzing logistics operations using real-world e-commer
 
 The goal is to simulate how data-driven decision making can improve logistics systems, similar to modern freight-tech companies.
 
+## 📄 Analysis Report  
+Detailed findings and recommendations: [View Report](reports/final_analysis.md)
+
 ---
 
 ## 🎯 Objectives
