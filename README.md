@@ -9,7 +9,7 @@ The goal is to simulate how data-driven decision making can improve logistics sy
 Detailed findings and recommendations: [View Report](reports/final_analysis.md)
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshot 2026-05-10 143256.png)
 
 ---
 
